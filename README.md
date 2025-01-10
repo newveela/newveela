@@ -1,5 +1,5 @@
 <!-- Intro  -->
-<h3 align="center"> Hey, I am <b><a target="_blank" href="https://newveelabandi.vercel.app">Newveela Bandi</a></b>
+<h3 align="center"> Hey, I am <b><a target="_blank" href="">Newveela Bandi</a></b>
         </samp>
 </h3>
 
