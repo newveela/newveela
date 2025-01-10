@@ -5,8 +5,7 @@
 
 
 <p align="center">
- <a href="https://newveelabandi.vercel.app" target="blank"> Website
- </a>
+ 
  <a href="https://www.linkedin.com/in/bandi-newveela-8510a5172/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="newveelabandi"/>
  </a>
